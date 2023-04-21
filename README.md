@@ -35,23 +35,55 @@ This is a Python program that generates random passwords based on user's choice 
 
 </td>
 </tr>
-</table>
 
+<tr>
+<td>
 <h3 id="ns">Only Numbers and Symbol</h3>
+</td>
+
+<td valign="middle">
 
 ![Only Numbers and Symbol](https://user-images.githubusercontent.com/29802859/221974713-2ad19de6-f1a8-4271-a6ec-6fe2c221d6bf.png)
 
+</td>
+</tr>
+
+<tr>
+<td>
 <h3 id="lns">Letters, Numbers and Symbol</h3>
+</td>
+
+<td valign="middle">
 
 ![Letters, Numbers and Symbol](https://user-images.githubusercontent.com/29802859/221974749-1f7b35c0-ead4-4bee-b004-0c448617e9e5.png)
 
+</td>
+</tr>
+
+<tr>
+<td>
 <h3>Wrong Number Typed</h3>
+</td>
+
+<td valign="middle">
 
 ![Wrong Number Typed](https://user-images.githubusercontent.com/29802859/221948211-46830047-ab3d-487c-a264-73b8d6dbf246.png)
 
+</td>
+</tr>
+
+<tr>
+<td>
 <h3>Less Than 8 Characters</h3>
+</td>
+
+<td valign="middle">
 
 ![Less Than 8 Characters](https://user-images.githubusercontent.com/29802859/221974897-891dee63-6c39-4d8a-ae70-a3f96dd333e7.png)
+
+</td>
+</tr>
+</table>
 
 ---
 
