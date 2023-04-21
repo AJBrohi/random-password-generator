@@ -11,13 +11,31 @@ This is a Python program that generates random passwords based on user's choice 
 
 ![Combinations](https://user-images.githubusercontent.com/29802859/221974942-c0257c45-cadd-440f-91fe-6fcbec6ace0b.png)
 
-<h3 id="ln">Only Letters and Numbers</h3>
+<table>
+<tr>
+<td>
+<h3 id="ln" align="center">Only Letters and Numbers</h3>
+</td>
+
+<td valign="middle">
 
 ![Only Letters and Numbers](https://user-images.githubusercontent.com/29802859/221973247-4ea804ca-2f16-4737-9a94-2e23d2840d00.png)
 
-<h3 id="ls">Only Letters and Symbol</h3>
+</td>
+</tr>
+
+<tr>
+<td>
+<h3 id="ln" align="center">Only Letters and Symbol</h3>
+</td>
+
+<td valign="middle">
 
 ![Only Letters and Symbol](https://user-images.githubusercontent.com/29802859/221974689-18640ce8-a43f-425b-a5ce-368a7dbc5162.png)
+
+</td>
+</tr>
+</table>
 
 <h3 id="ns">Only Numbers and Symbol</h3>
 
