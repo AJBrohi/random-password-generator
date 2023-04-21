@@ -38,7 +38,7 @@ This is a Python program that generates random passwords based on user's choice 
 
 <tr>
 <td>
-<h3 id="ns">Only Numbers and Symbol</h3>
+<h3 id="ns" align="center">Only Numbers and Symbol</h3>
 </td>
 
 <td valign="middle">
@@ -50,7 +50,7 @@ This is a Python program that generates random passwords based on user's choice 
 
 <tr>
 <td>
-<h3 id="lns">Letters, Numbers and Symbol</h3>
+<h3 id="lns" align="center">Letters, Numbers and Symbol</h3>
 </td>
 
 <td valign="middle">
@@ -62,10 +62,10 @@ This is a Python program that generates random passwords based on user's choice 
 
 <tr>
 <td>
-<h3>Wrong Number Typed</h3>
+<h3 align="center">Wrong Number Typed</h3>
 </td>
 
-<td valign="middle">
+<td valign="middle" >
 
 ![Wrong Number Typed](https://user-images.githubusercontent.com/29802859/221948211-46830047-ab3d-487c-a264-73b8d6dbf246.png)
 
@@ -74,7 +74,7 @@ This is a Python program that generates random passwords based on user's choice 
 
 <tr>
 <td>
-<h3>Less Than 8 Characters</h3>
+<h3 align="center">Less Than 8 Characters</h3>
 </td>
 
 <td valign="middle">
