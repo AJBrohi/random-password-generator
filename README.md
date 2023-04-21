@@ -2,14 +2,9 @@
 
 This is a Python program that generates random passwords based on user's choice of letters, numbers and symbols. The user can choose from four different types of combinations for their password.
 
-<table>
-<tr colspan="2">
-<td align="center">
-
 ## Combinations
 
-</td>
-</tr>
+<table>
 <tr>
 <td>
 
@@ -26,6 +21,8 @@ This is a Python program that generates random passwords based on user's choice 
 </td>
 <tr>
 </table>
+
+### Examples
 
 <table>
 <tr>
