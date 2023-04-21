@@ -13,44 +13,44 @@ if choice == 1:
     nr_letters= int(input("\nHow many letters would you like in your password?\n"))
     nr_numbers = int(input("\nHow many numbers would you like?\n"))
 
-    for n in range(0, nr_letters):
+    for _ in range(nr_letters):
         password += letters[random.randint(0, len(letters)-1)]
-        
-    for n in range(0, nr_numbers):
+
+    for _ in range(nr_numbers):
         password += numbers[random.randint(0, len(numbers)-1)]
-    
+
 elif choice == 2:
     nr_letters= int(input("\nHow many letters would you like in your password?\n"))
     nr_symbols = int(input("\nHow many symbols would you like?\n"))
 
-    for n in range(0, nr_letters):
+    for _ in range(nr_letters):
         password += letters[random.randint(0, len(letters)-1)]
-        
-    for n in range(0, nr_symbols):
+
+    for _ in range(nr_symbols):
         password += symbols[random.randint(0, len(symbols)-1)]
-        
+
 elif choice == 3:
     nr_numbers = int(input("\nHow many numbers would you like?\n"))
     nr_symbols = int(input("\nHow many symbols would you like?\n"))
 
-    for n in range(0, nr_numbers):
+    for _ in range(nr_numbers):
         password += numbers[random.randint(0, len(numbers)-1)]
-        
-    for n in range(0, nr_symbols):
+
+    for _ in range(nr_symbols):
         password += symbols[random.randint(0, len(symbols)-1)]
 elif choice == 4:
     nr_letters= int(input("\nHow many letters would you like in your password?\n"))
     nr_numbers = int(input("\nHow many numbers would you like?\n"))
     nr_symbols = int(input("\nHow many symbols would you like?\n"))
 
-    for n in range(0, nr_letters):
+    for _ in range(nr_letters):
         password += letters[random.randint(0, len(letters)-1)]
-        
-    for n in range(0, nr_numbers):
+
+    for _ in range(nr_numbers):
         password += numbers[random.randint(0, len(numbers)-1)]
-        
-    for n in range(0, nr_symbols):
-        password += symbols[random.randint(0, len(symbols)-1)]        
+
+    for _ in range(nr_symbols):
+        password += symbols[random.randint(0, len(symbols)-1)]
 else:
     print("\nYou typed a wrong number. Please TRY AGIAN!")
     exit()

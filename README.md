@@ -1,8 +1,8 @@
 # Random Password Generator
 
-This Python program generates a random password according to the user's choice of combinations. The user can choose the length and types of characters for their password to create a strong and secure password.
+This is a Python program that generates random passwords based on user's choice of letters, numbers and symbols. The user can choose from four different types of combinations for their password.
 
-The user can select from four different combinations when generating a password. Combinations are:
+## Combinations
 
 1. [Only Letters and Numbers](#ln "Goto Only Letters and Numbers")
 2. [Only Letters and Symbol](#ls "Goto Only Letters and Symbol")
@@ -34,3 +34,25 @@ The user can select from four different combinations when generating a password.
 <h3>Less Than 8 Characters</h3>
 
 ![Less Than 8 Characters](https://user-images.githubusercontent.com/29802859/221974897-891dee63-6c39-4d8a-ae70-a3f96dd333e7.png)
+
+---
+
+## Program's Features
+
+- User can choose from four different types of combinations for their password
+- The program generates a password with the desired length and combination of letters, numbers and symbols
+- The generated password is checked for its strength and recommended length is suggested for stronger passwords
+
+## Python Features Used
+
+- `random()` module for generating random characters for the password
+- **Loops and conditionals** for taking user inputs and generating the password
+- **String manipulation** for checking and printing the generated password
+
+## Learn More
+
+I've written a detailed article explaining how this game works and how to run it step-by-step on Medium. Check it out here: [Create Your Own Random Password Generator Using Python: A Project for Beginner](https://ajbrohi.medium.com/create-your-own-random-password-generator-using-python-a-project-for-beginner-239f6b1489f0)
+
+You can also follow my coding journey on my coding journal [From Beginner to Pro: A Python Project Journal of Learning and Innovation](https://medium.com/@ajbrohi/from-beginner-to-pro-a-python-project-journal-of-learning-and-innovation-60ede797a9c3), where I share my all projects article.
+
+Thank you for checking out my project!
